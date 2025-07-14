@@ -1,4 +1,4 @@
-**🔥 Gas Leakage Detection System using Raspberry Pi**
+******🔥 Gas Leakage Detection System using Raspberry Pi******
 
 A real-time gas detection and alert system built using Raspberry Pi and the MQ-2 gas sensor. The system continuously monitors the environment for hazardous gas levels (e.g., LPG, methane, smoke) and sends immediate alerts to the user while triggering safety actions like buzzers and LEDs.
 
@@ -56,7 +56,7 @@ Green LED indicates normal conditions.
 **📲 Alert System**
 Pushbullet or Telegram Bot
 
-📸 Project Images**
+**📸 Project Images**
 ![WhatsApp Image 2025-05-19 at 13 31 17_a0e2dc24](https://github.com/user-attachments/assets/7072053d-c666-47d7-8d5e-1b7e10b19c5a)
 ![WhatsApp Image 2025-05-19 at 14 15 15_aeaba1dd](https://github.com/user-attachments/assets/94e5abc5-b0ff-4d44-b10a-28b0b77dfa0c)
 
