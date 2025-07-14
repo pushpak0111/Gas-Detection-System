@@ -5,34 +5,52 @@ A real-time gas detection and alert system built using Raspberry Pi and the MQ-2
 **🚀 Features**
 
 ▹ Real-time gas leakage detection
+
 ▹ Sends smartphone alerts via messaging/email service
+
 ▹ Live data visualization using ThingSpeak dashboard
+
 ▹ Activates buzzer and LED indicators for instant feedback
+
 ▹ Supports monitoring for multiple houses/zones
 
 **🧰 Tech Stack**
 
 ▹ Hardware: Raspberry Pi 4/5, MQ-2 Gas Sensor, Buzzer, LEDs, Jumper Wires
+
 ▹ Software: Python (GPIO), Thonny
+
 ▹ Communication: Wi-Fi-based notification system
+
 ▹ OS: Raspberry Pi OS (Linux-based)
+
 
 **📦 Components Used**
 
 ▹ Raspberry Pi 4 / 5
+
 ▹ MQ-2 Gas Sensor
+
 ▹ Buzzer
+
 ▹ LED (Red, Green)
+
 ▹ MicroSD Card (32GB recommended)
+
 ▹ Male-to-Female Jumper Wires
+
 ▹ Power Adapter
 
 **🖥️ Working**
 
 MQ-2 sensor detects combustible gas levels.
+
 If gas concentration exceeds the threshold:
+
 Buzzer and red LED are triggered.
+
 A notification is sent to the user’s phone.
+
 Green LED indicates normal conditions.
 
 **📲 Alert System**
